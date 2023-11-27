@@ -65,7 +65,7 @@ body::-webkit-scrollbar {
     display: none;
 }
 .intro {
-    background: url(../img/farmhead.jpg);
+    background: url(../img/farmhead.webp);
     width: 100%;
     padding-top: 135px;
     padding-bottom: 105px;
