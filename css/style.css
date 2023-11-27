@@ -65,7 +65,7 @@ body::-webkit-scrollbar {
     display: none;
 }
 .intro {
-    background-image: url(../img/intro-bg.jpg);
+    background-image: url(../img/intro-bg.webp);
     width: 100%;
 padding-top: 135px;
 padding-bottom: 131px;
@@ -277,7 +277,7 @@ column-gap: 160px;
     font-size: 20px; 
 }
 .events {
-    background-image: url(../img/events.jpg);
+    background-image: url(../img/events.webp);
  padding-top: 139px;
  padding-bottom : 124px;
     display: flex;
