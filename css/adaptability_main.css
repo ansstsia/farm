@@ -354,11 +354,11 @@
     .events h3 {
         font-size: 16px;
     }
-    .events button {
+    .events__btn {
         width: 233px;
         height: 47px;
     }
-    .events button a {
+    .events__btn a {
         font-size: 20px;
     }
     .events br {
