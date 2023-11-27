@@ -65,7 +65,7 @@ body::-webkit-scrollbar {
 }
 .img {
     padding-top: 135px;
-    background-image: url(../img/shophead.jpg);
+    background-image: url(../img/shophead.webp);
  padding-bottom: 514px;
     width: 100%;
     background-size: cover;
